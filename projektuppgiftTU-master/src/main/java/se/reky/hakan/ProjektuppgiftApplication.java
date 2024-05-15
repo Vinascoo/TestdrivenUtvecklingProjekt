@@ -10,7 +10,7 @@ import se.reky.hakan.service.PlayerService;
 import java.util.Scanner;
 /*
 	Denna klass innehåller main-metoden som startar applikationen.
-	Detta är en spring-boot-applikation och innehåller två delar:
+	Detta är en spring-boot-applikation och innehåller två stycken delar:
 	1) Ett command-line-spel i samma anda och med samma tekniker
 		som det äventyrsspel ni tidigare har skapat.
 		Detta spel startas i en egen tråd via metoden run(Game game) nedan.
